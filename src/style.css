@@ -143,7 +143,11 @@ header {
 }
 
 
-
+ul {
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
 
 ul.topnav {
   list-style-type: none;
